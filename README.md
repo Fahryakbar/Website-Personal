@@ -1,2 +1,2 @@
 # Website-Personal
-Web
+https://fahryakbar.github.io/Website-Personal/
